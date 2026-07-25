@@ -1,0 +1,14 @@
+{
+  "name": "week03_ex03_node_express",
+  "version": "1.0.0",
+  "description": "LCA Exercise 3: REST API with Express and MySQL MVC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0",
+    "dotenv": "^16.3.1"
+  }
+}

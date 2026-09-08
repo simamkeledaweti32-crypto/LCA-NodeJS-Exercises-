@@ -1,0 +1,13 @@
+{
+  "name": "LCA-NodeJS-Exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mysql2": "^3.6.0"
+  }
+}
